@@ -1,4 +1,7 @@
 # TeamAssessment3
+Prototype link: https://xd.adobe.com/view/3f77eb1a-3608-4216-7ff5-f6b555dc7b42-4946/
+
+
 Quick team workflow guide:
 - Step 1: Clone this repository to your local folder by GitHub app or this command: "git clone https://github.com/duykhuongdiep/TeamAssessment3.git" (only do this once)
 - Step 2: Before commence any work, update your local repository to the newest commit by this command: "git pull --rebase origin master"
